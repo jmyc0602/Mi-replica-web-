@@ -1,0 +1,73 @@
+body {
+    background-color: white;
+}
+
+.nav-inicio {
+    font-family: 'Mulish', sans-serif;
+
+}
+
+h1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 70px;
+    
+    
+}
+
+.nav-inicio {
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    box-shadow: 0 .5rem .5rem rgba(0, 0, 0, .1);
+    padding: 10px 50px;
+
+}
+
+.nav-inicio li a {
+    text-decoration: none;
+    font-family: 'Mulish', sans-serif;
+    list-style: none;
+    display:block;
+    color: black;
+    list-style-type: none;
+    
+}
+
+.parrafo-1 {
+    font-family: 'Mulish', sans-serif;
+    font-size: 20px;
+
+}
+
+
+.main {
+    grid-template-columns: 1fr 1fr;
+    display:grid;
+}
+
+.celular {
+    width: 350px;
+    height: 600px;
+    position: absolute;
+    padding-left: 70px;
+}
+
+.demo-pantala {
+
+    width: 450px;
+    height: 500px; 
+    padding-left: 93px;
+    padding-right: 90px;
+    padding-bottom: 200px;
+    
+}
+
+
+.ellipse-1-1 {
+    padding-left: 300px;
+}
+
+
+
